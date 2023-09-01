@@ -1,5 +1,4 @@
-<!-- SPDX-License-Identifier: BSD-3-Clause -->
-<!-- Copyright (c) Contributors to the OpenEXR Project -->
+BSD 3-Clause License
 
 Copyright (c) Contributors to the OpenEXR Project. All rights reserved.
 
